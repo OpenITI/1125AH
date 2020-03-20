@@ -1,4 +1,6 @@
 # Files to ignore: PDFs can be downloaded with `make` for every included text
+.DS_Store
+/Users/romanovienna/_OpenITI/1125AH/data/1111Majlisi/1111Majlisi.BiharAnwar/1111Majlisi.BiharAnwar.Shia001432Vols-ara1.inProgress
 *.pdf
 *.PDF
 
