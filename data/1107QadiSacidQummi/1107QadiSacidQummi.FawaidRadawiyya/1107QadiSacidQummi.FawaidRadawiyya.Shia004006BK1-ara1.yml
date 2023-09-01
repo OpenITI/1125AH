@@ -6,8 +6,11 @@
 80#VERS#LINKS####: http://alfeker.net/library.php?id=3186
 90#VERS#ANNOTATOR: ASLISHO QURBONIEV, PV
 90#VERS#COMMENT##: The original text file contained the main text and Khumaynī's
-    taʿlīqa.
-    PV split the main text off from the taʿlīqa.
-    PV also removed the remaining page headers that had become included in the text.
+        taʿlīqa.
+        PV split the main text off from the taʿlīqa.
+        PV also removed the remaining page headers that had become included in the text.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-07
-90#VERS#ISSUES###: EDITORIAL_PARTS
+90#VERS#ISSUES###: EDITORIAL_PARTS, PRIMARY_VERSION, CLEANED_VERSION
