@@ -1,7 +1,7 @@
 00#BOOK#URI######: 1111Majlisi.BiharAnwar
 10#BOOK#GENRES###: src@keyword, src@keyword, src@keyword
-10#BOOK#TITLEA#AR: Kitāb al-Muʾallif
-10#BOOK#TITLEB#AR: Risālaŧ al-Muʾallif
+10#BOOK#TITLEA#AR: Biḥār al-anwār
+10#BOOK#TITLEB#AR: Biḥār al-anwār al-ǧāmiʿaŧ li-durar aḫbār al-aʾimmaŧ al-aṭhār
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: URI of a book from OpenITI, or [Author's Title],

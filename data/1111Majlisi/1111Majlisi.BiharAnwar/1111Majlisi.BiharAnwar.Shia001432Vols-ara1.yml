@@ -4,8 +4,7 @@
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
+90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
@@ -13,5 +12,14 @@
     https://raw.githubusercontent.com/OpenITI/1125AH/pre-
     clean/data/1111Majlisi/1111Majlisi.BiharAnwar/1111Majlisi.BiharAnwar.Shia001432VolsA-
     ara1
+    In the original version of this text file,
+    vols. 101-110 were misplaced between vols. 10 and 11.
+    PV moved them to their place.
+    For Vol. 103, only the editorial introduction was present;
+    PV removed that introduction. 
+    Vols. 108-110 contain indices; PV removed those
+    PV started the annotation process but did not finish it.
+    See https://en.wikishia.net/view/Bihar_al-anwar_(book)
+    (and PageV01P079) for an overview of the chapter titles
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
