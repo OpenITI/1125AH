@@ -49,5 +49,8 @@
     and a lot of asterisks and quotation marks are used
     in section titles; PV has not removed these because
     it was not clear whether these carry some meaning.
+    PV replaced the HTML Quran tags with OpenITI Quran tags
+    (@QUR@suranumber.ayanumber@0x ; x represents the number of tokens
+    in the Quran quotation).
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
