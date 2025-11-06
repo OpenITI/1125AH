@@ -5,11 +5,12 @@
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: 1084JoanBlaeu.AtlasMaior (TRANSL)
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
 90#BOOK#COMMENT##: Translation of Blaeu's Atlas Maior into Turkish,
-     and a reworking of Blaeu's information on the Islamic world.
-     See GAS 14.332ff.
+    and a reworking of Blaeu's information on the Islamic world.
+    See GAS 14.332ff.
